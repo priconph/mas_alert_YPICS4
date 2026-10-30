@@ -1,0 +1,1 @@
+Change the query on getting the BOM (as per seiko's query of getting BOM)
